@@ -1,0 +1,3 @@
+Enter the variable:
+abc123
+Valid variable
