@@ -1,2 +1,0 @@
-Enter a C control structure syntax:
-Valid control structure syntax.
