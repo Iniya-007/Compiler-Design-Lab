@@ -1,4 +1,0 @@
-Enter the expression: a=b+c*d
-t1 = c * d
-t2 = b + t1
-a = t2
